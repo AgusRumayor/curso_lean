@@ -11,3 +11,15 @@ Aquí sólo se muestran conceptos para:
 
 Ideas -> Producto -> Datos -> Ideas...
 ----Construir----Medir----Aprender
+
++++
+
+Ideas
+
+---
+
+Herramienta 1
+
++++
+
+Producto
