@@ -34,16 +34,13 @@ Ideas
 
 ## Comportamiento
 Etapas iniciales:
-* Gran cantidad de hipótesis
-* Ideas contrastantes
+* Gran cantidad de hipótesis, contrastantes, generales
 
 Etapas medianas:
-* Ideas a detalles del startup (canales, costos, socios...)
-* Hipótesis validadas y no validadas
+* Ideas validadas, enfocadas a detalles del startup (canales, costos, socios...)
 
 Etapas finales:
-* Ajustes del negocio (retención del cliente, métodos de cobro...)
-* Modelo de negocio visible
+* Ajustes del negocio (retención del cliente, métodos de cobro...), modelo de negocio visible
 
 +++
 
@@ -70,7 +67,17 @@ Producto
 
 +++
 
-Herramienta Producto
+MVP
+
++++
+
+Buscar formas simples de encontrar soluciones al problema
+
++++
+
+Pivotear:
+* Product-Market fit
+* Problem-Solution fit
 
 ---
 
