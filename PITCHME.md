@@ -8,3 +8,6 @@ Aquí sólo se muestran conceptos para:
  * Poder ayudar (mentorear) alguien que quiera emprender
 
 ---
+
+Ideas -> Producto -> Datos -> Ideas...
+----Construir----Medir----Aprender
