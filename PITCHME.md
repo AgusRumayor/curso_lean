@@ -44,7 +44,7 @@ Etapas finales:
 
 +++
 
-Herramientas para plasmar ideas:
+## Herramientas para plasmar ideas:
 * Servilleta
 * Business model canvas
 * Lean canvas
@@ -53,7 +53,7 @@ Herramientas para plasmar ideas:
 
 +++
 
-##Ejercicio 
+## Ejercicio.
 [Business Model Canvas](https://cdn.strategyzer.com/assets/marketing/canvases-business-model-canvas-a8509296e3cd543ee7c6881cada7082376d4dfdf4eac40e849490c0dba2d178b.svg) o 
 [Lean Model Canvas](http://bmtoolbox.net/wp-content/uploads/2016/05/Tool_24_leancanvas.jpg)
 
