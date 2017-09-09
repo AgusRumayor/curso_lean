@@ -61,6 +61,10 @@ Etapas finales:
 
 ## ¿Cuándo regresará a ser protagonista?
 
++++
+
+## ¿Problemas comunes?
+
 ---
 
 Producto
@@ -78,6 +82,41 @@ Buscar formas simples de encontrar soluciones al problema
 Pivotear:
 * Product-Market fit
 * Problem-Solution fit
+
++++
+
+## Comportamiento
+Etapas iniciales:
+* Utilizar herramientas para demostrar la solución, prototipos...
+
+Etapas medianas:
+* Pain killer
+
+Etapas finales:
+* Gain creators, Solución lista para una ejecución/escalamiento
+
++++
+
+## Herramientas para MVP:
+* Redes sociales
+* Landing pages
+* Prototipos
+* Mockup
+* Mentiras
+
++++
+
+## Ejercicio.
+[Crear ...]() o 
+[Lean Model Canvas](http://bmtoolbox.net/wp-content/uploads/2016/05/Tool_24_leancanvas.jpg)
+
++++
+
+## ¿Cuándo regresará a ser protagonista?
+
++++
+
+## ¿Problemas comunes?
 
 ---
 
