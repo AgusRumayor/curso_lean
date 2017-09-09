@@ -1,5 +1,5 @@
 # Curso* Lean Startup
-![http://www.leanproduction.co/wp-content/uploads/2015/04/phuongphaptinhgonvasixsigma2.jpg]
+![lean](http://www.leanproduction.co/wp-content/uploads/2015/04/phuongphaptinhgonvasixsigma2.jpg)
 
 ---
 
