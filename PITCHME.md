@@ -16,8 +16,8 @@ Aquí sólo se muestran conceptos para:
 
 ---
 
-####Ideas -> Producto -> Datos -> Ideas...
-####----Construir----Medir----Aprender
+#### Ideas -> Producto -> Datos -> Ideas...
+#### ----Construir----Medir----Aprender
 
 ---
 
@@ -59,7 +59,7 @@ Etapas finales:
 
 +++
 
-##¿Cuándo regresará a ser protagonista?
+## ¿Cuándo regresará a ser protagonista?
 
 ---
 
