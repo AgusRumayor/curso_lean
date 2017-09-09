@@ -12,26 +12,28 @@ Aquí sólo se muestran conceptos para:
 Ideas -> Producto -> Datos -> Ideas...
 ----Construir----Medir----Aprender
 
-+++
+---
 
 Ideas
 
 +++
 
-Producto
-
-+++
-
-Datos
+Herramienta Ideas
 
 ---
 
-Herramienta Ideas
+Producto
 
 +++
 
 Herramienta Producto
 
+---
+
+Datos
+
 +++
 
 Herramienta Datos
+
+---
