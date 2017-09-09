@@ -16,14 +16,22 @@ Ideas -> Producto -> Datos -> Ideas...
 
 Ideas
 
----
-
-Herramienta 1
-
 +++
 
 Producto
 
++++
+
+Datos
+
 ---
 
-Herramienta 1
+Herramienta Ideas
+
++++
+
+Herramienta Producto
+
++++
+
+Herramienta Datos
