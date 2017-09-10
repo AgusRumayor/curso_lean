@@ -114,6 +114,9 @@ Etapas finales:
 [Landing](https://unbounce.com/) o [Demos](https://www.fluidui.com/) o 
 [Hashtag](https://top-hashtags.com/hashtag/prototype/)
 
+## Pitch
+[Pitch](https://pitcherific.com/)
+
 +++
 
 ## ¿Cuándo regresará a ser protagonista?
@@ -153,7 +156,7 @@ Herramientas de medición:
 +++
 
 ## Ejercicio 
-[Interpretar]()
+[Interpretar](https://xtensio.com/)
 
 +++
 
