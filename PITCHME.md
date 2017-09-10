@@ -107,8 +107,8 @@ Etapas finales:
 +++
 
 ## Ejercicio.
-[Crear ...]() o 
-[Lean Model Canvas](http://bmtoolbox.net/wp-content/uploads/2016/05/Tool_24_leancanvas.jpg)
+[Landing](https://unbounce.com/) o [Demos](https://www.fluidui.com/)
+[Hashtag](https://top-hashtags.com/hashtag/prototype/)
 
 +++
 
@@ -124,6 +124,39 @@ Datos
 
 +++
 
-Herramienta Datos
+Medir e interpretar las ideas y productos ante el cliente
+
++++
+
+## Comportamiento
+Etapas iniciales:
+* Reacciones, dolor, alivio, likes
+
+Etapas medianas:
+* Motivaciones, tiempos de respuesta, satisfacción, costos de adquisición
+
+Etapas finales:
+* Número de clientes, Conversiones, Retenciones, Proyecciones, Valoración
+
++++
+
+Herramientas de medición:
+* Canvas
+* Spreadsheet
+* Tableros
+* Redes sociales
+
++++
+
+## Ejercicio 
+[Interpretar]()
+
++++
+
+## ¿Cuándo regresará a ser protagonista?
+
++++
+
+## ¿Problemas comunes?
 
 ---
