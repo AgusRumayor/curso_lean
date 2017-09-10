@@ -9,6 +9,10 @@ Aquí sólo se muestran conceptos para:
 
 ---
 
+![Video](https://www.youtube.com/embed/E62ecUVZa9Q)
+
+---
+
 * Filosofía *Lean*, Customer Development, Lean Startup
 * Métodos ágiles, startupweekend, Canvas
 * Ángeles, Aceleradora, Startupero
