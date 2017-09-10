@@ -21,7 +21,7 @@ Aquí sólo se muestran conceptos para:
 
 ---
 
-Ideas
+# Ideas
 
 +++
 
@@ -67,7 +67,7 @@ Etapas finales:
 
 ---
 
-Producto
+# Producto
 
 +++
 
@@ -107,7 +107,7 @@ Etapas finales:
 +++
 
 ## Ejercicio.
-[Landing](https://unbounce.com/) o [Demos](https://www.fluidui.com/)
+[Landing](https://unbounce.com/) o [Demos](https://www.fluidui.com/) o 
 [Hashtag](https://top-hashtags.com/hashtag/prototype/)
 
 +++
@@ -120,7 +120,7 @@ Etapas finales:
 
 ---
 
-Datos
+# Datos
 
 +++
 
