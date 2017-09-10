@@ -16,7 +16,7 @@ Aquí sólo se muestran conceptos para:
 * Filosofía *Lean*, Customer Development, Lean Startup
 * Métodos ágiles, startupweekend, Canvas
 * Ángeles, Aceleradora, Startupero
-* Pivotear, pitchar, levantar
+* Pivotear, pitchar, levantar, feedback
 
 ---
 
